@@ -8,7 +8,7 @@ I am a Self-taught Remote Sensing & GIS Expert, Majorly in love with Open Source
 1. My current position is GIS Expert.
 1. I am involved with Weather Risk Management Services Pvt Ltd.
 1. I get connected very easily with my colleagues,i like to make friends in my field
-1. My Hobbies are listening Music,reading News,Learning field related new Things.
+1. My hobbies are listening music,reading news,learning field related new skills.
 
 ## Current Role
 
@@ -25,3 +25,6 @@ GIS Expert in Weather Risk Management Services Pvt Ltd
 - Geospatial Python
 - javaScript
 - GDAL / OGR
+- Geoserver
+- Leflet
+- Openlayers
