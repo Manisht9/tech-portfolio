@@ -14,4 +14,14 @@ I am a self-taught Remote Sensing & GIS Expert, majorly in love with Open Source
 
 GIS Expert in Weather Risk Management Services Pvt Ltd
 
-
+## Software
+- ArcGis
+- Qgis
+- ERDAS IMAGINE
+- ENVI
+## Advance Skill
+- Google Earth Engine 
+- PostgreSQL
+- Geospatial Python
+- javaScript
+- GDAL / OGR
