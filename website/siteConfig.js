@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Manish Tiwari', // Title for your website.
-    tagline: 'Hi! ✋🏻 I’m Remote Sensing & GIS Expert, Open Source GIS Enthusiast, Aspiring Spatial Data Scientist. Thanks For Visting My Portfolio',
+    tagline: 'Hi! ✋🏻 I’m Remote Sensing & GIS Expert, Open Source GIS Enthusiast, Aspiring Spatial Data Scientist.',
     profilePhoto: 'img/profile.png',
     url: 'https://Manisht9.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
