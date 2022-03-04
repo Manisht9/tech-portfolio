@@ -73,7 +73,7 @@ const siteConfig = {
     or delete the line. */
     socialMedia: {
         linkedin: 'https://www.linkedin.com/in/manisht98/',
-        twitter: 'https://twitter.com/',
+        twitter: 'https://telegram.me/+BRLAn14brr5iZjJl',
         github: 'https://github.com/Manisht9',
         //facebook: 'https://www.facebook.com/',
         //instagram: 'https://www.instagram.com/',
